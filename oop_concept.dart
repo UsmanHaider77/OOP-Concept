@@ -69,7 +69,7 @@
 
 // class Teacher {}
 
-//----------------------------(Encampsulation)-------------------------------//
+//----------------------------(Encapsulation)-------------------------------//
 
 import 'person.dart';
 
@@ -80,3 +80,7 @@ void main() {
 }
 
 class Student extends Person {}
+
+// Encapsulation have Two Types;
+//  [(1) Private: It is File Level in dart]
+//  [(2) Public : It is Not Used in Dart]
